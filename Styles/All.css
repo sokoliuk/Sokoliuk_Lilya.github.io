@@ -186,6 +186,10 @@ body hr{
 	z-index: 9999;
 	transition: 1.5s;
 }
+.lyceum{
+	display: flex;
+	justify-content: center;
+}
 /*SPECIAL FOR GALLERY
 ``````````````````````````````````````````*/
 
